@@ -1,0 +1,29 @@
+{
+  "name": "The Last Chick",
+  "type": "BASE",
+  "symbol": "TLC",
+  "decimals": 18,
+  "description": "The Last Chick (TLC) is a community-driven meme coin and Web3 project on Base network, built on hope, resilience and purpose. The ecosystem includes a token, NFTs and a game project.",
+  "website": "https://thelastchick.com/",
+  "explorer": "https://basescan.org/token/0x04B757D7Cb621BFb846d47B161857D5E59F5D40C",
+  "status": "active",
+  "id": "0x04B757D7Cb621BFb846d47B161857D5E59F5D40C",
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/TheLastChickTLC"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/TheLastChick"
+    },
+    {
+      "name": "youtube",
+      "url": "https://youtube.com/@thelastchickTLC"
+    }
+  ],
+  "tags": [
+    "memes",
+    "gamefi"
+  ]
+}
